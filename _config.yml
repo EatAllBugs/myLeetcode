@@ -1,1 +1,2 @@
 theme: jekyll-theme-cayman
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
